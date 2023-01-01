@@ -1,5 +1,5 @@
 # 365-Days-of-Code-23
-Coding every single day in 2023.
+Coding every single day in 2023 by solving problems on LEETCODE
 
 ## Day 1
 ### Word pattern
